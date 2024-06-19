@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashish Rai</h1>
-<h3 align="center">An Undergraduate student pursuing Bachelor's degree on Computer Engineering.</h3>
+<h3 align="center">A graduated student pursued bachelor's degree on Computer Engineering.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mythicplayer1&label=Profile%20views&color=0e75b6&style=flat" alt="mythicplayer1" /> </p>
 
