@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mythicplayer1&label=Profile%20views&color=0e75b6&style=flat" alt="mythicplayer1" /> </p>
 
-- 🔭 I’m currently working on **Major Project for my Final year bachelor degree**
-
-- 🌱 I’m currently learning **MERN full stack development**
+- 🔭 I’m currently working as React Developer at **Aarawan Tech **
 
 - 📫 How to reach me **ashishraiofficial@gmail.com**
 
